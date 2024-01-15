@@ -21,7 +21,7 @@
  *
  * Function `sumAll(...)` should meet the following requirements:
  * 1. accept infinite amount of args
- * 2. accept strings
+ * 2. accept strings:  (numbers)'13' => 13 |  (words)'abs' => 0
  * 3. treat objects, undefined & nulls as 0
  * 4. If no arg given, return 0
  */
