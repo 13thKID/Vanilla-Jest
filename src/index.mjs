@@ -32,7 +32,7 @@ export function sumAll() {
 
 const sumAllResult = sumAll();
 
-console.log("sumAllResult: ", sumAllResult);
+console.log("sumAllResult:", sumAllResult);
 /**
  * >>> OPTION 2 <<<
  *
